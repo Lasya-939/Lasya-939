@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hi 👋, I'm Lasya
 
-### CSE (Data Science) Graduate | Python | SQL | Data Analytics | Machine Learning
+### CSE (Data Science) Graduate | Python | SQL | Data Analytics | Machine Learning | HTML | CSS
 
 I'm a Computer Science Engineering graduate specializing in **Data Science**, with a strong interest in turning data into meaningful insights and building practical software solutions.
 
